@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/indramohankumar/hell-is-here/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/indramohankumar/hell-is-here/tree/master/0441-arranging-coins) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/indramohankumar/hell-is-here/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/indramohankumar/hell-is-here/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
