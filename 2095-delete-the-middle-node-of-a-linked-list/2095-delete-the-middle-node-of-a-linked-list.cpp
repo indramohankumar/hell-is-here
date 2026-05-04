@@ -6,18 +6,14 @@ public:
 
         ListNode* slow = head;
         ListNode* fast = head;
-        ListNode* prev = NULL;
+     fast=head->next->next;
 
         while (fast != NULL && fast->next != NULL) {
-            prev = slow;
-            slow = slow->next;
-            fast = fast->next->next;
+            slow=slow->next;
+            fast=fast->next->next;
         }
-
-        // delete actual middle
-        prev->next = slow->next;
-        delete slow;
-
+        slow->next=slow->next->next;
         return head;
+
     }
 };
