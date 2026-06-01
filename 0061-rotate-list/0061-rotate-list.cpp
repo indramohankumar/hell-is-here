@@ -29,6 +29,7 @@ ListNode*findNthNode(ListNode*temp,int k){
         }
         if(k%len==0) return head;
         k=k%len;
+        //attach tail to the head;
         tail->next=head;
         ListNode*newLastNode=findNthNode(head,len-k);
         head=newLastNode->next;
