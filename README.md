@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/indramohankumar/hell-is-here/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0090-subsets-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0216-combination-sum-iii](https://github.com/indramohankumar/hell-is-here/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0240-search-a-2d-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/indramohankumar/hell-is-here/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/indramohankumar/hell-is-here/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/indramohankumar/hell-is-here/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
