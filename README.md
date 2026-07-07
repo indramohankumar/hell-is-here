@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/indramohankumar/hell-is-here/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/indramohankumar/hell-is-here/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/indramohankumar/hell-is-here/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/indramohankumar/hell-is-here/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
