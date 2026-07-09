@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/indramohankumar/hell-is-here/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
+| [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/indramohankumar/hell-is-here/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/indramohankumar/hell-is-here/tree/master/0160-intersection-of-two-linked-lists) |
+| [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/indramohankumar/hell-is-here/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/indramohankumar/hell-is-here/tree/master/0231-power-of-two) |
+| [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
