@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/indramohankumar/hell-is-here/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/indramohankumar/hell-is-here/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -170,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/indramohankumar/hell-is-here/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/indramohankumar/hell-is-here/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
