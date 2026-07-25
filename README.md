@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/indramohankumar/hell-is-here/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/indramohankumar/hell-is-here/tree/master/0901-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/indramohankumar/hell-is-here/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/indramohankumar/hell-is-here/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/indramohankumar/hell-is-here/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/indramohankumar/hell-is-here/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/indramohankumar/hell-is-here/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/indramohankumar/hell-is-here/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
