@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/indramohankumar/hell-is-here/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/indramohankumar/hell-is-here/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/indramohankumar/hell-is-here/tree/master/0460-lfu-cache) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/indramohankumar/hell-is-here/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/indramohankumar/hell-is-here/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/indramohankumar/hell-is-here/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
