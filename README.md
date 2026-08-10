@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/indramohankumar/hell-is-here/tree/master/0460-lfu-cache) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/indramohankumar/hell-is-here/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 ## Stack
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/indramohankumar/hell-is-here/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/indramohankumar/hell-is-here/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/indramohankumar/hell-is-here/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Backtracking
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/indramohankumar/hell-is-here/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/indramohankumar/hell-is-here/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Heap (Priority Queue)
 |  |
