@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/indramohankumar/hell-is-here/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/indramohankumar/hell-is-here/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0240-search-a-2d-matrix-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/indramohankumar/hell-is-here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0503-next-greater-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0503-next-greater-element-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/indramohankumar/hell-is-here/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/indramohankumar/hell-is-here/tree/master/0148-sort-list) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/indramohankumar/hell-is-here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
 ## Math
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0402-remove-k-digits) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/indramohankumar/hell-is-here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sliding Window
 |  |
 | ------- |
