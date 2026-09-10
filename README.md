@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/indramohankumar/hell-is-here/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/indramohankumar/hell-is-here/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/indramohankumar/hell-is-here/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/indramohankumar/hell-is-here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/indramohankumar/hell-is-here/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/indramohankumar/hell-is-here/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/indramohankumar/hell-is-here/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/indramohankumar/hell-is-here/tree/master/0460-lfu-cache) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/indramohankumar/hell-is-here/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/indramohankumar/hell-is-here/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/indramohankumar/hell-is-here/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/indramohankumar/hell-is-here/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indramohankumar/hell-is-here/tree/master/1358-number-of-substrings-containing-all-three-characters) |
