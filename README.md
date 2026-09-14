@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/indramohankumar/hell-is-here/tree/master/0441-arranging-coins) |
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/indramohankumar/hell-is-here/tree/master/1922-count-good-numbers) |
+| [2235-add-two-integers](https://github.com/indramohankumar/hell-is-here/tree/master/2235-add-two-integers) |
 ## Linked List
 |  |
 | ------- |
