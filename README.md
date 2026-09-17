@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/indramohankumar/hell-is-here/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/indramohankumar/hell-is-here/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/indramohankumar/hell-is-here/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0240-search-a-2d-matrix-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/indramohankumar/hell-is-here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/indramohankumar/hell-is-here/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/indramohankumar/hell-is-here/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/indramohankumar/hell-is-here/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/indramohankumar/hell-is-here/tree/master/0460-lfu-cache) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/indramohankumar/hell-is-here/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
