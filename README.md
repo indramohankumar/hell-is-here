@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
 | [1470-shuffle-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/indramohankumar/hell-is-here/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/indramohankumar/hell-is-here/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/indramohankumar/hell-is-here/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/indramohankumar/hell-is-here/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/indramohankumar/hell-is-here/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
