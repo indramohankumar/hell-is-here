@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/indramohankumar/hell-is-here/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/indramohankumar/hell-is-here/tree/master/0992-subarrays-with-k-different-integers) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
 | [1470-shuffle-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/1470-shuffle-the-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/indramohankumar/hell-is-here/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/indramohankumar/hell-is-here/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -342,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/indramohankumar/hell-is-here/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
