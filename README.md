@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/indramohankumar/hell-is-here/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/indramohankumar/hell-is-here/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/indramohankumar/hell-is-here/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0219-contains-duplicate-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/indramohankumar/hell-is-here/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/indramohankumar/hell-is-here/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/indramohankumar/hell-is-here/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/indramohankumar/hell-is-here/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/indramohankumar/hell-is-here/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/indramohankumar/hell-is-here/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/indramohankumar/hell-is-here/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/indramohankumar/hell-is-here/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/indramohankumar/hell-is-here/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/indramohankumar/hell-is-here/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/indramohankumar/hell-is-here/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/indramohankumar/hell-is-here/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/indramohankumar/hell-is-here/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
