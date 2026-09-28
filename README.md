@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/indramohankumar/hell-is-here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/indramohankumar/hell-is-here/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/indramohankumar/hell-is-here/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/indramohankumar/hell-is-here/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/indramohankumar/hell-is-here/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/indramohankumar/hell-is-here/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/indramohankumar/hell-is-here/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/indramohankumar/hell-is-here/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/indramohankumar/hell-is-here/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/indramohankumar/hell-is-here/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/indramohankumar/hell-is-here/tree/master/1672-richest-customer-wealth) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/indramohankumar/hell-is-here/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/0053-maximum-subarray) |
+| [0542-01-matrix](https://github.com/indramohankumar/hell-is-here/tree/master/0542-01-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/indramohankumar/hell-is-here/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/indramohankumar/hell-is-here/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/indramohankumar/hell-is-here/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/indramohankumar/hell-is-here/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/indramohankumar/hell-is-here/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/indramohankumar/hell-is-here/tree/master/0733-flood-fill) |
