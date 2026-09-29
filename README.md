@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/indramohankumar/hell-is-here/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/indramohankumar/hell-is-here/tree/master/1672-richest-customer-wealth) |
+| [1765-map-of-highest-peak](https://github.com/indramohankumar/hell-is-here/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/indramohankumar/hell-is-here/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/indramohankumar/hell-is-here/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/indramohankumar/hell-is-here/tree/master/1672-richest-customer-wealth) |
+| [1765-map-of-highest-peak](https://github.com/indramohankumar/hell-is-here/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/indramohankumar/hell-is-here/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/indramohankumar/hell-is-here/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/indramohankumar/hell-is-here/tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
