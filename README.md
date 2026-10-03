@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/indramohankumar/hell-is-here/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/indramohankumar/hell-is-here/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/indramohankumar/hell-is-here/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/indramohankumar/hell-is-here/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/indramohankumar/hell-is-here/tree/master/1254-number-of-closed-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/indramohankumar/hell-is-here/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/indramohankumar/hell-is-here/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/indramohankumar/hell-is-here/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/indramohankumar/hell-is-here/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/indramohankumar/hell-is-here/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/indramohankumar/hell-is-here/tree/master/1254-number-of-closed-islands) |
@@ -411,12 +413,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/indramohankumar/hell-is-here/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/indramohankumar/hell-is-here/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/indramohankumar/hell-is-here/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/indramohankumar/hell-is-here/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/indramohankumar/hell-is-here/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/indramohankumar/hell-is-here/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/indramohankumar/hell-is-here/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/indramohankumar/hell-is-here/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -425,4 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/indramohankumar/hell-is-here/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/indramohankumar/hell-is-here/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/indramohankumar/hell-is-here/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
