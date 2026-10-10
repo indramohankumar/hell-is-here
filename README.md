@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/indramohankumar/hell-is-here/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/indramohankumar/hell-is-here/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/indramohankumar/hell-is-here/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/indramohankumar/hell-is-here/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/indramohankumar/hell-is-here/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0142-linked-list-cycle-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/indramohankumar/hell-is-here/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/indramohankumar/hell-is-here/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/indramohankumar/hell-is-here/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/indramohankumar/hell-is-here/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/indramohankumar/hell-is-here/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/indramohankumar/hell-is-here/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/indramohankumar/hell-is-here/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/indramohankumar/hell-is-here/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/indramohankumar/hell-is-here/tree/master/0207-course-schedule) |
@@ -453,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/indramohankumar/hell-is-here/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/indramohankumar/hell-is-here/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
