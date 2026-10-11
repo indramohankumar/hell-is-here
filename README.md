@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/indramohankumar/hell-is-here/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -463,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/indramohankumar/hell-is-here/tree/master/0127-word-ladder) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/indramohankumar/hell-is-here/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
