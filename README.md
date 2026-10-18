@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/indramohankumar/hell-is-here/tree/master/1254-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/indramohankumar/hell-is-here/tree/master/1480-running-sum-of-1d-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/indramohankumar/hell-is-here/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/indramohankumar/hell-is-here/tree/master/1765-map-of-highest-peak) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/indramohankumar/hell-is-here/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/indramohankumar/hell-is-here/tree/master/0542-01-matrix) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Merge Sort
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
 | [1328-break-a-palindrome](https://github.com/indramohankumar/hell-is-here/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indramohankumar/hell-is-here/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/indramohankumar/hell-is-here/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Backtracking
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/indramohankumar/hell-is-here/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/indramohankumar/hell-is-here/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/indramohankumar/hell-is-here/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/indramohankumar/hell-is-here/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/indramohankumar/hell-is-here/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
