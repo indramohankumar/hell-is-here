@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/indramohankumar/hell-is-here/tree/master/0441-arranging-coins) |
 | [0991-broken-calculator](https://github.com/indramohankumar/hell-is-here/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
+| [1323-maximum-69-number](https://github.com/indramohankumar/hell-is-here/tree/master/1323-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1922-count-good-numbers](https://github.com/indramohankumar/hell-is-here/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/indramohankumar/hell-is-here/tree/master/2235-add-two-integers) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/indramohankumar/hell-is-here/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/indramohankumar/hell-is-here/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/indramohankumar/hell-is-here/tree/master/0991-broken-calculator) |
+| [1323-maximum-69-number](https://github.com/indramohankumar/hell-is-here/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/indramohankumar/hell-is-here/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/indramohankumar/hell-is-here/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
