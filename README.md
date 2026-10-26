@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/indramohankumar/hell-is-here/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/indramohankumar/hell-is-here/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/indramohankumar/hell-is-here/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/indramohankumar/hell-is-here/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/indramohankumar/hell-is-here/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/indramohankumar/hell-is-here/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/indramohankumar/hell-is-here/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/indramohankumar/hell-is-here/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/indramohankumar/hell-is-here/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/indramohankumar/hell-is-here/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/indramohankumar/hell-is-here/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/indramohankumar/hell-is-here/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/indramohankumar/hell-is-here/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/indramohankumar/hell-is-here/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
