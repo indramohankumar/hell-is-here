@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/indramohankumar/hell-is-here/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/indramohankumar/hell-is-here/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/indramohankumar/hell-is-here/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/indramohankumar/hell-is-here/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/indramohankumar/hell-is-here/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Stack
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/indramohankumar/hell-is-here/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/indramohankumar/hell-is-here/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Design
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/indramohankumar/hell-is-here/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/indramohankumar/hell-is-here/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/indramohankumar/hell-is-here/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/indramohankumar/hell-is-here/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/indramohankumar/hell-is-here/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
