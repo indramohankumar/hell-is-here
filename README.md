@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/indramohankumar/hell-is-here/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/indramohankumar/hell-is-here/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2405-optimal-partition-of-string](https://github.com/indramohankumar/hell-is-here/tree/master/2405-optimal-partition-of-string) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Stack
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/indramohankumar/hell-is-here/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/indramohankumar/hell-is-here/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2405-optimal-partition-of-string](https://github.com/indramohankumar/hell-is-here/tree/master/2405-optimal-partition-of-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/indramohankumar/hell-is-here/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/indramohankumar/hell-is-here/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/indramohankumar/hell-is-here/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2405-optimal-partition-of-string](https://github.com/indramohankumar/hell-is-here/tree/master/2405-optimal-partition-of-string) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/indramohankumar/hell-is-here/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/indramohankumar/hell-is-here/tree/master/3727-maximum-alternating-sum-of-squares) |
