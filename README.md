@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/indramohankumar/hell-is-here/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/indramohankumar/hell-is-here/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/indramohankumar/hell-is-here/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1922-count-good-numbers](https://github.com/indramohankumar/hell-is-here/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/indramohankumar/hell-is-here/tree/master/2235-add-two-integers) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/indramohankumar/hell-is-here/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Linked List
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/indramohankumar/hell-is-here/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/indramohankumar/hell-is-here/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/indramohankumar/hell-is-here/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/indramohankumar/hell-is-here/tree/master/2405-optimal-partition-of-string) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/indramohankumar/hell-is-here/tree/master/3723-maximize-sum-of-squares-of-digits) |
