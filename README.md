@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/indramohankumar/hell-is-here/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/indramohankumar/hell-is-here/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/indramohankumar/hell-is-here/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/indramohankumar/hell-is-here/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/indramohankumar/hell-is-here/tree/master/0441-arranging-coins) |
 | [0991-broken-calculator](https://github.com/indramohankumar/hell-is-here/tree/master/0991-broken-calculator) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0258-add-digits) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 ## Counting
 |  |
@@ -553,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/indramohankumar/hell-is-here/tree/master/0881-boats-to-save-people) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
