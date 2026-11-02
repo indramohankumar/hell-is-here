@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/indramohankumar/hell-is-here/tree/master/1254-number-of-closed-islands) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/indramohankumar/hell-is-here/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1470-shuffle-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/indramohankumar/hell-is-here/tree/master/1480-running-sum-of-1d-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/indramohankumar/hell-is-here/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/indramohankumar/hell-is-here/tree/master/0542-01-matrix) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/indramohankumar/hell-is-here/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Merge Sort
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/indramohankumar/hell-is-here/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/indramohankumar/hell-is-here/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/indramohankumar/hell-is-here/tree/master/1323-maximum-69-number) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/indramohankumar/hell-is-here/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/indramohankumar/hell-is-here/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/indramohankumar/hell-is-here/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
