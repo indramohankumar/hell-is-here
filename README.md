@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/indramohankumar/hell-is-here/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/indramohankumar/hell-is-here/tree/master/1765-map-of-highest-peak) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/indramohankumar/hell-is-here/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/indramohankumar/hell-is-here/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/indramohankumar/hell-is-here/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/indramohankumar/hell-is-here/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/indramohankumar/hell-is-here/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/indramohankumar/hell-is-here/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/indramohankumar/hell-is-here/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/indramohankumar/hell-is-here/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/indramohankumar/hell-is-here/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/indramohankumar/hell-is-here/tree/master/0948-bag-of-tokens) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/indramohankumar/hell-is-here/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/indramohankumar/hell-is-here/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/indramohankumar/hell-is-here/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -593,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/indramohankumar/hell-is-here/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
