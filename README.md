@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/indramohankumar/hell-is-here/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/indramohankumar/hell-is-here/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/indramohankumar/hell-is-here/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/indramohankumar/hell-is-here/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/indramohankumar/hell-is-here/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/indramohankumar/hell-is-here/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/indramohankumar/hell-is-here/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/indramohankumar/hell-is-here/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/indramohankumar/hell-is-here/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/indramohankumar/hell-is-here/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/indramohankumar/hell-is-here/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/indramohankumar/hell-is-here/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/indramohankumar/hell-is-here/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/indramohankumar/hell-is-here/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/indramohankumar/hell-is-here/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/indramohankumar/hell-is-here/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/indramohankumar/hell-is-here/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/indramohankumar/hell-is-here/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
