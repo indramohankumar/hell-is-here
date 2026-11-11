@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/indramohankumar/hell-is-here/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/indramohankumar/hell-is-here/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/indramohankumar/hell-is-here/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/indramohankumar/hell-is-here/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/indramohankumar/hell-is-here/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/indramohankumar/hell-is-here/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/indramohankumar/hell-is-here/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/indramohankumar/hell-is-here/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/indramohankumar/hell-is-here/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/indramohankumar/hell-is-here/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/indramohankumar/hell-is-here/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/indramohankumar/hell-is-here/tree/master/0424-longest-repeating-character-replacement) |
