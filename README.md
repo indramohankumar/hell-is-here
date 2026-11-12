@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/indramohankumar/hell-is-here/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/indramohankumar/hell-is-here/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2336-smallest-number-in-infinite-set](https://github.com/indramohankumar/hell-is-here/tree/master/2336-smallest-number-in-infinite-set) |
 | [2405-optimal-partition-of-string](https://github.com/indramohankumar/hell-is-here/tree/master/2405-optimal-partition-of-string) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Stack
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/indramohankumar/hell-is-here/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/indramohankumar/hell-is-here/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/indramohankumar/hell-is-here/tree/master/0901-online-stock-span) |
+| [2336-smallest-number-in-infinite-set](https://github.com/indramohankumar/hell-is-here/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/indramohankumar/hell-is-here/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/indramohankumar/hell-is-here/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/indramohankumar/hell-is-here/tree/master/0451-sort-characters-by-frequency) |
+| [2336-smallest-number-in-infinite-set](https://github.com/indramohankumar/hell-is-here/tree/master/2336-smallest-number-in-infinite-set) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -618,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/indramohankumar/hell-is-here/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
