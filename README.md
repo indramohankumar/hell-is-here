@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/indramohankumar/hell-is-here/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2352-equal-row-and-column-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2352-equal-row-and-column-pairs) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/indramohankumar/hell-is-here/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/indramohankumar/hell-is-here/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/indramohankumar/hell-is-here/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/indramohankumar/hell-is-here/tree/master/1901-find-a-peak-element-ii) |
 | [2352-equal-row-and-column-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2352-equal-row-and-column-pairs) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/indramohankumar/hell-is-here/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/indramohankumar/hell-is-here/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/indramohankumar/hell-is-here/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/indramohankumar/hell-is-here/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/indramohankumar/hell-is-here/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/indramohankumar/hell-is-here/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/indramohankumar/hell-is-here/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/indramohankumar/hell-is-here/tree/master/0258-add-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/2352-equal-row-and-column-pairs) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/indramohankumar/hell-is-here/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 ## Counting
 |  |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/indramohankumar/hell-is-here/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/indramohankumar/hell-is-here/tree/master/0451-sort-characters-by-frequency) |
 | [2336-smallest-number-in-infinite-set](https://github.com/indramohankumar/hell-is-here/tree/master/2336-smallest-number-in-infinite-set) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/indramohankumar/hell-is-here/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Monotonic Queue
 |  |
 | ------- |
