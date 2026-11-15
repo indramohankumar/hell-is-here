@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/indramohankumar/hell-is-here/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/indramohankumar/hell-is-here/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/indramohankumar/hell-is-here/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0823-binary-trees-with-factors](https://github.com/indramohankumar/hell-is-here/tree/master/0823-binary-trees-with-factors) |
 | [0881-boats-to-save-people](https://github.com/indramohankumar/hell-is-here/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/indramohankumar/hell-is-here/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/indramohankumar/hell-is-here/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/indramohankumar/hell-is-here/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/indramohankumar/hell-is-here/tree/master/0561-array-partition) |
+| [0823-binary-trees-with-factors](https://github.com/indramohankumar/hell-is-here/tree/master/0823-binary-trees-with-factors) |
 | [0881-boats-to-save-people](https://github.com/indramohankumar/hell-is-here/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/indramohankumar/hell-is-here/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/indramohankumar/hell-is-here/tree/master/0948-bag-of-tokens) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/indramohankumar/hell-is-here/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/indramohankumar/hell-is-here/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/indramohankumar/hell-is-here/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0823-binary-trees-with-factors](https://github.com/indramohankumar/hell-is-here/tree/master/0823-binary-trees-with-factors) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/indramohankumar/hell-is-here/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/indramohankumar/hell-is-here/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/indramohankumar/hell-is-here/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/indramohankumar/hell-is-here/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/indramohankumar/hell-is-here/tree/master/0542-01-matrix) |
+| [0823-binary-trees-with-factors](https://github.com/indramohankumar/hell-is-here/tree/master/0823-binary-trees-with-factors) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/indramohankumar/hell-is-here/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Merge Sort
