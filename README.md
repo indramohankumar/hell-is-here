@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/indramohankumar/hell-is-here/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1470-shuffle-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/indramohankumar/hell-is-here/tree/master/1480-running-sum-of-1d-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/indramohankumar/hell-is-here/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/1512-number-of-good-pairs) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/indramohankumar/hell-is-here/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/indramohankumar/hell-is-here/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/indramohankumar/hell-is-here/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/indramohankumar/hell-is-here/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/indramohankumar/hell-is-here/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/indramohankumar/hell-is-here/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indramohankumar/hell-is-here/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/indramohankumar/hell-is-here/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/indramohankumar/hell-is-here/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/indramohankumar/hell-is-here/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/indramohankumar/hell-is-here/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/indramohankumar/hell-is-here/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/indramohankumar/hell-is-here/tree/master/0992-subarrays-with-k-different-integers) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/indramohankumar/hell-is-here/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/1512-number-of-good-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/indramohankumar/hell-is-here/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/indramohankumar/hell-is-here/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/indramohankumar/hell-is-here/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/indramohankumar/hell-is-here/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/indramohankumar/hell-is-here/tree/master/1328-break-a-palindrome) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/indramohankumar/hell-is-here/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/indramohankumar/hell-is-here/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/indramohankumar/hell-is-here/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
