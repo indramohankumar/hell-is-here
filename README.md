@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/indramohankumar/hell-is-here/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/indramohankumar/hell-is-here/tree/master/1254-number-of-closed-islands) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/indramohankumar/hell-is-here/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/indramohankumar/hell-is-here/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1470-shuffle-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/indramohankumar/hell-is-here/tree/master/1480-running-sum-of-1d-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/indramohankumar/hell-is-here/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/indramohankumar/hell-is-here/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/indramohankumar/hell-is-here/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/indramohankumar/hell-is-here/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/indramohankumar/hell-is-here/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/indramohankumar/hell-is-here/tree/master/1833-maximum-ice-cream-bars) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/indramohankumar/hell-is-here/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/indramohankumar/hell-is-here/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/indramohankumar/hell-is-here/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indramohankumar/hell-is-here/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/indramohankumar/hell-is-here/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/1512-number-of-good-pairs) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/indramohankumar/hell-is-here/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/indramohankumar/hell-is-here/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/indramohankumar/hell-is-here/tree/master/0991-broken-calculator) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/indramohankumar/hell-is-here/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1323-maximum-69-number](https://github.com/indramohankumar/hell-is-here/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/indramohankumar/hell-is-here/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/indramohankumar/hell-is-here/tree/master/1328-break-a-palindrome) |
