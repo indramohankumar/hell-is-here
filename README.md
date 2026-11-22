@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/indramohankumar/hell-is-here/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/indramohankumar/hell-is-here/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/indramohankumar/hell-is-here/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/indramohankumar/hell-is-here/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/indramohankumar/hell-is-here/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/indramohankumar/hell-is-here/tree/master/2405-optimal-partition-of-string) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/indramohankumar/hell-is-here/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/indramohankumar/hell-is-here/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Stack
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/indramohankumar/hell-is-here/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/indramohankumar/hell-is-here/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/indramohankumar/hell-is-here/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/indramohankumar/hell-is-here/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Design
 |  |
 | ------- |
