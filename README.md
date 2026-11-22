@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/indramohankumar/hell-is-here/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/indramohankumar/hell-is-here/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/indramohankumar/hell-is-here/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/indramohankumar/hell-is-here/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/1512-number-of-good-pairs) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/indramohankumar/hell-is-here/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/indramohankumar/hell-is-here/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/indramohankumar/hell-is-here/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/indramohankumar/hell-is-here/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/indramohankumar/hell-is-here/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/1512-number-of-good-pairs) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/indramohankumar/hell-is-here/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/indramohankumar/hell-is-here/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/indramohankumar/hell-is-here/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/indramohankumar/hell-is-here/tree/master/0992-subarrays-with-k-different-integers) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/indramohankumar/hell-is-here/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/indramohankumar/hell-is-here/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/indramohankumar/hell-is-here/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/indramohankumar/hell-is-here/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/indramohankumar/hell-is-here/tree/master/2085-count-common-words-with-one-occurrence) |
