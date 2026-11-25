@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/indramohankumar/hell-is-here/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/indramohankumar/hell-is-here/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/indramohankumar/hell-is-here/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/indramohankumar/hell-is-here/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/indramohankumar/hell-is-here/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/indramohankumar/hell-is-here/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/indramohankumar/hell-is-here/tree/master/1248-count-number-of-nice-subarrays) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/indramohankumar/hell-is-here/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/indramohankumar/hell-is-here/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/indramohankumar/hell-is-here/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/indramohankumar/hell-is-here/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/indramohankumar/hell-is-here/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2336-smallest-number-in-infinite-set](https://github.com/indramohankumar/hell-is-here/tree/master/2336-smallest-number-in-infinite-set) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/indramohankumar/hell-is-here/tree/master/2500-delete-greatest-value-in-each-row) |
